@@ -55,4 +55,12 @@ a + a{
     background-color: CadetBlue;
     color: LightBlue;
 
+div{
+  background-color: purple;
+  width: 150px;
+  padding:20px;
+  margin:20px;
+}
+  
+
   
