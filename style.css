@@ -23,19 +23,7 @@ h1{
 .footer, .content, .header{
   font-family: 'Times New Roman';
 }
-div a{
-  padding:10px;
-  background-color:640B29;
-  color:white;
-}
-a>h1{
-  background-color:A82F50;
-  color:F8EDF0;
-}
-a + a{
-  background-color:A42F4F;
-  color:F8EDF0;
-}
+
 .nav-bar {
     background-color: Teal;
     overflow: hidden;
@@ -51,9 +39,7 @@ a + a{
     text-decoration: none;
 }
 
-.nav-bar a:hover {
-    background-color: CadetBlue;
-    color: LightBlue;
+
 
 .image_sports{
   background-color: purple;
@@ -61,6 +47,21 @@ a + a{
   padding:20px;
   margin:20px;
 }
-  
+
+div a{
+  background-color: purple;
+  width: 150px;
+  padding:20px;
+  margin:20px;
+
+}
+ol > li{
+  background-color:A82F50;
+  color:F8EDF0;
+}
+li + li{
+  background-color:A42F4F;
+  color:F8EDF0;
+}
 
   
